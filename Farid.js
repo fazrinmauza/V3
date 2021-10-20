@@ -35,11 +35,11 @@ MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1  (') BERARTI DI AKHIRNYA HARUS DI TUTU
 MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1 (`) BERARTI DI AKHIRNYA HARUS DI TUTUP LAGI DENGAN TANDA PETIK 1 (`)
 ❗MAU BELI SCRIPT YANG NO ENC ? KE PM BAWA DANA, HARGA BISIK BISIK :V (6281231951590)
 ────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
-limitawal = "10" //LIMIT AWAL
-namabot = "MUZZA - BOT" //NAMA BOT
-namaowner = "FARID MAHARDIKA" //NAMA OWNER
-nomerowner = '6281231951590' //NOMER OWNER
-gamewaktu = "3" //3 = 3 detik || 30 = 30 detik .Dst
+limitawal = "100" //LIMIT AWAL
+namabot = "EZZ - BOT" //NAMA BOT
+namaowner = "FAZRIN" //NAMA OWNER
+nomerowner = '6283110011351' //NOMER OWNER
+gamewaktu = "60" //3 = 3 detik || 30 = 30 detik .Dst
 numbernye = "0" //GAUSAH DI UBAH JUGA GPP
 gcounttprem = "30" //LIMIT GAME AWAL UNTUK USER PREMIUM
 gcounttuser = "20" //LIMIT GAME AWAL UNTUK USER BIASA
@@ -51,7 +51,7 @@ const lolkey = 'ISI APIKEYMU SENDIRI' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA 
 
 //DONASI 
 //NOTE : JIKA GA PUNYA, ISI JADI -
-gopay = '6285606404329'
+gopay = '-'
 dana = '-'
 ovo = '-'
 shopeepay = '-'
